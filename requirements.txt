@@ -34,7 +34,7 @@ gntp == 1.0.3
 google_api_python_client == 1.5.1
 python_twitter == 3.1
 pyxdg == 0.25
-urllib3 == 1.16
+urllib3 == 1.26.5
 py-unrar2 == 0.99.6
 lockfile == 0.12.2
 -e git://github.com/sebastiaansamyn/python-fanart.git#egg=python-fanart
